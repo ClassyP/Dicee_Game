@@ -1,6 +1,6 @@
 # Dice GAME dot JS ;)
 
-![Project Image](project-image-url)
+![Project Image](https://classyp.github.io/Dicee_Game/)
 
 > This is a ReadMe template to help save you time and effort.
 
@@ -44,7 +44,7 @@ Simple Dice game to show you my use and understanding of HTML CSS & Vanilla JS a
 
 MIT License
 
-Copyright (c) [2017] [James Q Quick]
+Copyright (c) [2019] [Jean-Philip Lamarre]
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
