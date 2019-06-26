@@ -4,6 +4,13 @@
   text-align: center;
 }
 
+#refreshButton {
+  background-color: #563873;
+  color: #EEEEEE;
+  size: 10rem
+
+}
+
 .dice {
   text-align: center;
   display: inline-block;
