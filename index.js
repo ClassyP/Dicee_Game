@@ -1,3 +1,4 @@
+
 // set the value of this variable to a random number between 1 and 6.
 var randomNumber1 = Math.floor(Math.random() * 6) +1;
 //dice1.png - dice6.png
@@ -7,7 +8,7 @@ var randomImageSource = "images/" + randomDiceImage;
 
 var image1 = document.querySelectorAll("img")[0];
 
-image1.setAttribute("src", randomDiceSorce);
+image1.setAttribute("src", randomImageSource);
 
 var randomNumber2 = Math.floor(Math.random() * 6) + 1;
 
